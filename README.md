@@ -1,10 +1,10 @@
 
-# A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
+# A walkthrough video demonstrating the functionality of the application 
 https://drive.google.com/file/d/1LHHO_91FdFTnrqXerMcdrrXehoivQlI_/view
 
 
 # The URL of the GitHub repository. 
-
+https://github.com/pzhong1/E-commerce-BackEnd.git
 
 
 # About
