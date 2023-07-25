@@ -14,6 +14,13 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 # TASK
 build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.  
 
+# requirements
+install Mysql2, sequelize and dotenv package 
+set up sql database 
+1. mysql -u root -p
+2. create ecommerce_db database for this project
+3. source schema.sql
+
 # User Story
 AS A manager at an internet retail company  
 I WANT a back end for my e-commerce website that uses the latest technologies  
