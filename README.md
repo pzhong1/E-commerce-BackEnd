@@ -151,3 +151,9 @@ Category has many Product models.
 Product belongs to many Tag models. Using the ProductTag through model, allow products to have multiple tags and tags to have many products.
 
 Tag belongs to many Product models.
+
+# example img
+![image](https://github.com/pzhong1/E-commerce-BackEnd/assets/123424361/b07862c4-3321-4a74-a378-7961f80d12ec)
+
+
+
