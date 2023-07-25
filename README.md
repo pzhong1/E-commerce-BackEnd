@@ -162,5 +162,6 @@ Tag belongs to many Product models.
 # example img
 ![image](https://github.com/pzhong1/E-commerce-BackEnd/assets/123424361/b07862c4-3321-4a74-a378-7961f80d12ec)
 
+<img width="1440" alt="Screenshot 2023-07-24 at 1 45 04 PM" src="https://github.com/pzhong1/E-commerce-BackEnd/assets/123424361/f451498a-aa27-4462-b666-196a150cb546">
 
 
