@@ -164,4 +164,5 @@ Tag belongs to many Product models.
 
 <img width="1440" alt="Screenshot 2023-07-24 at 1 45 04 PM" src="https://github.com/pzhong1/E-commerce-BackEnd/assets/123424361/f451498a-aa27-4462-b666-196a150cb546">
 
+<img width="1440" alt="Screenshot 2023-07-24 at 1 45 23 PM" src="https://github.com/pzhong1/E-commerce-BackEnd/assets/123424361/2abc204e-1cf0-4384-8f35-fce8946c4bb3">
 
